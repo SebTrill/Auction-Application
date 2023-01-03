@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ed8igM6jrZswThzHj3t6vtuL9MEHs/0MH0wehYhspxJMLfnWT+KRWgo06iC5NUrVh9S7iPWPthXCHltYNPf5lA==",
+  "dgSpecHash": "Xa4PY1VNdQm4qokfsivoMGtR26CbsHqkgYbtO3Ofh8wcXIPDtrQ+ZcoxB8ntPry5WWYg3WHVT/FcPbcc+aC2gA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sgtri\\source\\repos\\Bid_Application\\Bid501Client\\Bid501Client\\Bid501Client.csproj",
+  "projectFilePath": "C:\\Users\\sgtri\\Source\\Repos\\Bid_Application\\Bid501Client\\Bid501Client\\Bid501Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sgtri\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sgtri\\source\\repos\\Bid_Application\\Bid501Client\\Bid501Client\\Bid501Client.csproj": {}
+    "C:\\Users\\sgtri\\Source\\Repos\\Bid_Application\\Bid501Client\\Bid501Client\\Bid501Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sgtri\\source\\repos\\Bid_Application\\Bid501Client\\Bid501Client\\Bid501Client.csproj": {
+    "C:\\Users\\sgtri\\Source\\Repos\\Bid_Application\\Bid501Client\\Bid501Client\\Bid501Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sgtri\\source\\repos\\Bid_Application\\Bid501Client\\Bid501Client\\Bid501Client.csproj",
+        "projectUniqueName": "C:\\Users\\sgtri\\Source\\Repos\\Bid_Application\\Bid501Client\\Bid501Client\\Bid501Client.csproj",
         "projectName": "Bid501Client",
-        "projectPath": "C:\\Users\\sgtri\\source\\repos\\Bid_Application\\Bid501Client\\Bid501Client\\Bid501Client.csproj",
+        "projectPath": "C:\\Users\\sgtri\\Source\\Repos\\Bid_Application\\Bid501Client\\Bid501Client\\Bid501Client.csproj",
         "packagesPath": "C:\\Users\\sgtri\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\sgtri\\Source\\Repos\\Bid_Application\\Bid501Client\\Bid501Client\\obj\\",
         "projectStyle": "PackageReference",
