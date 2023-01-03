@@ -1,0 +1,145 @@
+C:\Users\sgtri\Source\Repos\Bid501App\Bid501Client\bin\Debug\net6.0-windows\Bid501Client.exe
+C:\Users\sgtri\Source\Repos\Bid501App\Bid501Client\bin\Debug\net6.0-windows\Bid501Client.deps.json
+C:\Users\sgtri\Source\Repos\Bid501App\Bid501Client\bin\Debug\net6.0-windows\Bid501Client.runtimeconfig.json
+C:\Users\sgtri\Source\Repos\Bid501App\Bid501Client\bin\Debug\net6.0-windows\Bid501Client.dll
+C:\Users\sgtri\Source\Repos\Bid501App\Bid501Client\bin\Debug\net6.0-windows\Bid501Client.pdb
+C:\Users\sgtri\Source\Repos\Bid501App\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.csproj.AssemblyReference.cache
+C:\Users\sgtri\Source\Repos\Bid501App\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.Bid501Form.resources
+C:\Users\sgtri\Source\Repos\Bid501App\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.Login_Form.resources
+C:\Users\sgtri\Source\Repos\Bid501App\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.csproj.GenerateResource.cache
+C:\Users\sgtri\Source\Repos\Bid501App\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgtri\Source\Repos\Bid501App\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.AssemblyInfoInputs.cache
+C:\Users\sgtri\Source\Repos\Bid501App\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.AssemblyInfo.cs
+C:\Users\sgtri\Source\Repos\Bid501App\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.csproj.CoreCompileInputs.cache
+C:\Users\sgtri\Source\Repos\Bid501App\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.dll
+C:\Users\sgtri\Source\Repos\Bid501App\Bid501Client\obj\Debug\net6.0-windows\refint\Bid501Client.dll
+C:\Users\sgtri\Source\Repos\Bid501App\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.pdb
+C:\Users\sgtri\Source\Repos\Bid501App\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.genruntimeconfig.cache
+C:\Users\sgtri\Source\Repos\Bid501App\Bid501Client\obj\Debug\net6.0-windows\ref\Bid501Client.dll
+C:\Users\zacha\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\Bid501Client.exe
+C:\Users\zacha\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\Bid501Client.deps.json
+C:\Users\zacha\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\Bid501Client.runtimeconfig.json
+C:\Users\zacha\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\Bid501Client.dll
+C:\Users\zacha\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\Bid501Client.pdb
+C:\Users\zacha\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\zacha\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\websocket-sharp.dll
+C:\Users\zacha\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.csproj.AssemblyReference.cache
+C:\Users\zacha\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.Bid501Form.resources
+C:\Users\zacha\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.Login_Form.resources
+C:\Users\zacha\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.csproj.GenerateResource.cache
+C:\Users\zacha\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zacha\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.AssemblyInfoInputs.cache
+C:\Users\zacha\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.AssemblyInfo.cs
+C:\Users\zacha\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.csproj.CoreCompileInputs.cache
+C:\Users\zacha\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.csproj.CopyComplete
+C:\Users\zacha\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.dll
+C:\Users\zacha\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\refint\Bid501Client.dll
+C:\Users\zacha\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.pdb
+C:\Users\zacha\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.genruntimeconfig.cache
+C:\Users\zacha\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\ref\Bid501Client.dll
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\Bid501Client.exe
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\Bid501Client.deps.json
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\Bid501Client.runtimeconfig.json
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\Bid501Client.dll
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\Bid501Client.pdb
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\websocket-sharp.dll
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.csproj.AssemblyReference.cache
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.Bid501Form.resources
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.Login_Form.resources
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.csproj.GenerateResource.cache
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.AssemblyInfoInputs.cache
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.AssemblyInfo.cs
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.csproj.CoreCompileInputs.cache
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.csproj.CopyComplete
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.dll
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\refint\Bid501Client.dll
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.pdb
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.genruntimeconfig.cache
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\ref\Bid501Client.dll
+C:\Users\zacha\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.ChatForm.resources
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\Bid501Client.exe
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\Bid501Client.deps.json
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\Bid501Client.runtimeconfig.json
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\Bid501Client.dll
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\Bid501Client.pdb
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\websocket-sharp.dll
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.csproj.AssemblyReference.cache
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.Bid501Form.resources
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.Login_Form.resources
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.csproj.GenerateResource.cache
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.AssemblyInfoInputs.cache
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.AssemblyInfo.cs
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.csproj.CoreCompileInputs.cache
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.csproj.CopyComplete
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.dll
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\refint\Bid501Client.dll
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.pdb
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.genruntimeconfig.cache
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\ref\Bid501Client.dll
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\Bid501Client.exe
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\Bid501Client.deps.json
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\Bid501Client.runtimeconfig.json
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\Bid501Client.dll
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\Bid501Client.pdb
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\websocket-sharp.dll
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.csproj.AssemblyReference.cache
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.Bid501Form.resources
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.Login_Form.resources
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.csproj.GenerateResource.cache
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.GeneratedMSBuildEditorConfig.editorconfig
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.AssemblyInfoInputs.cache
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.AssemblyInfo.cs
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.csproj.CoreCompileInputs.cache
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.csproj.CopyComplete
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.dll
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\refint\Bid501Client.dll
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.pdb
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.genruntimeconfig.cache
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\ref\Bid501Client.dll
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\Bid501Client.exe
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\Bid501Client.deps.json
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\Bid501Client.runtimeconfig.json
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\Bid501Client.dll
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\Bid501Client.pdb
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\websocket-sharp.dll
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.csproj.AssemblyReference.cache
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.Bid501Form.resources
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.Login_Form.resources
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.csproj.GenerateResource.cache
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.AssemblyInfoInputs.cache
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.AssemblyInfo.cs
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.csproj.CoreCompileInputs.cache
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.csproj.CopyComplete
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.dll
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\refint\Bid501Client.dll
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.pdb
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.genruntimeconfig.cache
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\ref\Bid501Client.dll
+C:\Users\sgtri\source\repos\Bid_Application\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\Bid501Client.exe
+C:\Users\sgtri\source\repos\Bid_Application\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\Bid501Client.deps.json
+C:\Users\sgtri\source\repos\Bid_Application\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\Bid501Client.runtimeconfig.json
+C:\Users\sgtri\source\repos\Bid_Application\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\Bid501Client.dll
+C:\Users\sgtri\source\repos\Bid_Application\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\Bid501Client.pdb
+C:\Users\sgtri\source\repos\Bid_Application\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\sgtri\source\repos\Bid_Application\Bid501Client\Bid501Client\bin\Debug\net6.0-windows\websocket-sharp.dll
+C:\Users\sgtri\source\repos\Bid_Application\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.csproj.AssemblyReference.cache
+C:\Users\sgtri\source\repos\Bid_Application\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.Bid501Form.resources
+C:\Users\sgtri\source\repos\Bid_Application\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.Login_Form.resources
+C:\Users\sgtri\source\repos\Bid_Application\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.csproj.GenerateResource.cache
+C:\Users\sgtri\source\repos\Bid_Application\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgtri\source\repos\Bid_Application\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.AssemblyInfoInputs.cache
+C:\Users\sgtri\source\repos\Bid_Application\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.AssemblyInfo.cs
+C:\Users\sgtri\source\repos\Bid_Application\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.csproj.CoreCompileInputs.cache
+C:\Users\sgtri\source\repos\Bid_Application\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.csproj.CopyComplete
+C:\Users\sgtri\source\repos\Bid_Application\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.dll
+C:\Users\sgtri\source\repos\Bid_Application\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\refint\Bid501Client.dll
+C:\Users\sgtri\source\repos\Bid_Application\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.pdb
+C:\Users\sgtri\source\repos\Bid_Application\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\Bid501Client.genruntimeconfig.cache
+C:\Users\sgtri\source\repos\Bid_Application\Bid501Client\Bid501Client\obj\Debug\net6.0-windows\ref\Bid501Client.dll
