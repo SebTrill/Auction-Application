@@ -1,0 +1,155 @@
+C:\Users\sgtri\Source\Repos\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Bid501Server.exe
+C:\Users\sgtri\Source\Repos\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Bid501Server.deps.json
+C:\Users\sgtri\Source\Repos\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Bid501Server.runtimeconfig.json
+C:\Users\sgtri\Source\Repos\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Bid501Server.dll
+C:\Users\sgtri\Source\Repos\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Bid501Server.pdb
+C:\Users\sgtri\Source\Repos\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.csproj.AssemblyReference.cache
+C:\Users\sgtri\Source\Repos\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.AddProductForm.resources
+C:\Users\sgtri\Source\Repos\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.ModifyProductForm.resources
+C:\Users\sgtri\Source\Repos\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.ServerForm.resources
+C:\Users\sgtri\Source\Repos\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.csproj.GenerateResource.cache
+C:\Users\sgtri\Source\Repos\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgtri\Source\Repos\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.AssemblyInfoInputs.cache
+C:\Users\sgtri\Source\Repos\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.AssemblyInfo.cs
+C:\Users\sgtri\Source\Repos\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.csproj.CoreCompileInputs.cache
+C:\Users\sgtri\Source\Repos\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.dll
+C:\Users\sgtri\Source\Repos\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\refint\Bid501Server.dll
+C:\Users\sgtri\Source\Repos\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.pdb
+C:\Users\sgtri\Source\Repos\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.genruntimeconfig.cache
+C:\Users\sgtri\Source\Repos\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\ref\Bid501Server.dll
+C:\Users\zacha\Source\Repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Bid501Server.exe
+C:\Users\zacha\Source\Repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Bid501Server.deps.json
+C:\Users\zacha\Source\Repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Bid501Server.runtimeconfig.json
+C:\Users\zacha\Source\Repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Bid501Server.dll
+C:\Users\zacha\Source\Repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Bid501Server.pdb
+C:\Users\zacha\Source\Repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.csproj.AssemblyReference.cache
+C:\Users\zacha\Source\Repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.AddProductForm.resources
+C:\Users\zacha\Source\Repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.ModifyProductForm.resources
+C:\Users\zacha\Source\Repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.ServerForm.resources
+C:\Users\zacha\Source\Repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.csproj.GenerateResource.cache
+C:\Users\zacha\Source\Repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zacha\Source\Repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.AssemblyInfoInputs.cache
+C:\Users\zacha\Source\Repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.AssemblyInfo.cs
+C:\Users\zacha\Source\Repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.csproj.CoreCompileInputs.cache
+C:\Users\zacha\Source\Repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.dll
+C:\Users\zacha\Source\Repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\refint\Bid501Server.dll
+C:\Users\zacha\Source\Repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.pdb
+C:\Users\zacha\Source\Repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.genruntimeconfig.cache
+C:\Users\zacha\Source\Repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\ref\Bid501Server.dll
+C:\Users\zacha\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\zacha\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\websocket-sharp.dll
+C:\Users\zacha\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.csproj.CopyComplete
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Bid501Server.exe
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Bid501Server.deps.json
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Bid501Server.runtimeconfig.json
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Bid501Server.dll
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Bid501Server.pdb
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\websocket-sharp.dll
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.csproj.AssemblyReference.cache
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.AddProductForm.resources
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.ModifyProductForm.resources
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.ServerForm.resources
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.csproj.GenerateResource.cache
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.AssemblyInfoInputs.cache
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.AssemblyInfo.cs
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.csproj.CoreCompileInputs.cache
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.csproj.CopyComplete
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.dll
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\refint\Bid501Server.dll
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.pdb
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.genruntimeconfig.cache
+C:\Users\sgtri\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\ref\Bid501Server.dll
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.csproj.AssemblyReference.cache
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.AddProductForm.resources
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.ModifyProductForm.resources
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.ServerForm.resources
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.csproj.GenerateResource.cache
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.AssemblyInfoInputs.cache
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.AssemblyInfo.cs
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.csproj.CoreCompileInputs.cache
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.dll
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\refint\Bid501Server.dll
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.pdb
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Bid501Server.exe
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Bid501Server.deps.json
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Bid501Server.runtimeconfig.json
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Bid501Server.dll
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Bid501Server.pdb
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\websocket-sharp.dll
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.csproj.CopyComplete
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.genruntimeconfig.cache
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\ref\Bid501Server.dll
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Bid501Server.exe
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Bid501Server.deps.json
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Bid501Server.runtimeconfig.json
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Bid501Server.dll
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Bid501Server.pdb
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\websocket-sharp.dll
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.csproj.AssemblyReference.cache
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.AddProductForm.resources
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.ModifyProductForm.resources
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.ServerForm.resources
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.csproj.GenerateResource.cache
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.GeneratedMSBuildEditorConfig.editorconfig
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.AssemblyInfoInputs.cache
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.AssemblyInfo.cs
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.csproj.CoreCompileInputs.cache
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.csproj.CopyComplete
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.dll
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\refint\Bid501Server.dll
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.pdb
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.genruntimeconfig.cache
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\ref\Bid501Server.dll
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Bid501Server.exe
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Bid501Server.deps.json
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Bid501Server.runtimeconfig.json
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Bid501Server.dll
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Bid501Server.pdb
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\websocket-sharp.dll
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.csproj.AssemblyReference.cache
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.AddProductForm.resources
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.ModifyProductForm.resources
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.ServerForm.resources
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.csproj.GenerateResource.cache
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.AssemblyInfoInputs.cache
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.AssemblyInfo.cs
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.csproj.CoreCompileInputs.cache
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.csproj.CopyComplete
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.dll
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\refint\Bid501Server.dll
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.pdb
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.genruntimeconfig.cache
+C:\Users\odonn\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\ref\Bid501Server.dll
+C:\Users\sgtri\Source\Repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.Forms.Server_LoginForm.resources
+E:\CIS 501\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.Forms.Server_LoginForm.resources
+C:\Users\rosen\source\repos\fp-implementation-f22-team-05-b\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.Forms.Server_LoginForm.resources
+C:\Users\sgtri\Source\Repos\Bid_Application\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Bid501Server.exe
+C:\Users\sgtri\Source\Repos\Bid_Application\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Bid501Server.deps.json
+C:\Users\sgtri\Source\Repos\Bid_Application\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Bid501Server.runtimeconfig.json
+C:\Users\sgtri\Source\Repos\Bid_Application\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Bid501Server.dll
+C:\Users\sgtri\Source\Repos\Bid_Application\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Bid501Server.pdb
+C:\Users\sgtri\Source\Repos\Bid_Application\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\sgtri\Source\Repos\Bid_Application\Bid501Server\Bid501Server\bin\Debug\net6.0-windows\websocket-sharp.dll
+C:\Users\sgtri\Source\Repos\Bid_Application\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.csproj.AssemblyReference.cache
+C:\Users\sgtri\Source\Repos\Bid_Application\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.AddProductForm.resources
+C:\Users\sgtri\Source\Repos\Bid_Application\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.ModifyProductForm.resources
+C:\Users\sgtri\Source\Repos\Bid_Application\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.ServerForm.resources
+C:\Users\sgtri\Source\Repos\Bid_Application\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.Forms.Server_LoginForm.resources
+C:\Users\sgtri\Source\Repos\Bid_Application\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.csproj.GenerateResource.cache
+C:\Users\sgtri\Source\Repos\Bid_Application\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgtri\Source\Repos\Bid_Application\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.AssemblyInfoInputs.cache
+C:\Users\sgtri\Source\Repos\Bid_Application\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.AssemblyInfo.cs
+C:\Users\sgtri\Source\Repos\Bid_Application\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.csproj.CoreCompileInputs.cache
+C:\Users\sgtri\Source\Repos\Bid_Application\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.csproj.CopyComplete
+C:\Users\sgtri\Source\Repos\Bid_Application\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.dll
+C:\Users\sgtri\Source\Repos\Bid_Application\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\refint\Bid501Server.dll
+C:\Users\sgtri\Source\Repos\Bid_Application\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.pdb
+C:\Users\sgtri\Source\Repos\Bid_Application\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\Bid501Server.genruntimeconfig.cache
+C:\Users\sgtri\Source\Repos\Bid_Application\Bid501Server\Bid501Server\obj\Debug\net6.0-windows\ref\Bid501Server.dll
